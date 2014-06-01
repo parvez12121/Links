@@ -1,0 +1,1 @@
+Spring Dependency -> http://stackoverflow.com/questions/2237537/which-maven-dependencies-to-include-for-spring-3-0
