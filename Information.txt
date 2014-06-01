@@ -14,4 +14,11 @@ Let's talk about few grammatical and punctuation mistakes which people do a lot.
 4. Double quotes should be closed after punctuation according to U.S. way.
 </content>
 
+<topic> Using various punctuation symbols </topic>
+<content>
+1. Hyphen(-) : Used for prefix; make a compound word; used inside numbers.
+2. Dash (--) : Used for pause.
+3. Semicolon (;) : Used for clauses which are part of sentences but are independent. 
+</content>
+
 
