@@ -1,6 +1,17 @@
-[topic]	History of @ sign
-[START]
+<topic>	History of @ sign </topic>
+<content>
 When it was first used the author (name Forgotten) used it to address a specificlocation. He thought that no one would use @ as a letter in his name. There are many speculations when @ symbol was first used. Some state that it dates back to less than fifth century. Some say its use started recently. But, some documents dating back to 14th century in which usage of @ symbol was found. 
-[STOP]
+</content>
+
+<topic> Common Grammatical and Punctuation Mistakes </topic>
+<content>
+Let's talk about few grammatical and punctuation mistakes which people do a lot.
+1. Incorrect use of "myself".
+	The use of myself in given sentence is wrong. 
+	"I have enough for him and myself.
+2. Incorrect use of it's and its.
+3. Confusion of their, there, and they're.
+4. Double quotes should be closed after punctuation according to U.S. way.
+</content>
 
 
