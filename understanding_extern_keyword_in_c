@@ -1,0 +1,10 @@
+#prepend_extern_keyword_with_functions functions which we declare in c have extern keyword prepended with them as for example
+int foo()
+is 
+extern int foo()
+#default_values_for_static_variables_in_c
+#volatile_variables_no_optimizations_by_compiler as the value of a volatile can be changed by the code outside the scope
+#const_qualifier_in_c
+#initialization_of_static_variables_in_c
+#understanding_register_keyword_in_c it is the choice of a compiler to a register variable in a register
+#register_and_static_together cannot be used as register is also a storage class like static
