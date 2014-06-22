@@ -1,0 +1,14 @@
+GeeksforGeeks : C
+
+#Topic Name
+-> Information
+
+
+#Use_of_bool_in_C
+bool is not by default present in C. It should be included using stdbool.h
+#Integer_Promotion where the char gets converted to int for calculations.
+#Integers are converted to int first if the value gets fit in int, otherwise it gets converted to unsigned int
+#Char_Conversion_Example_gfg
+#sizes_of_pointer_integer_same
+#void_is_not_valid_type
+#size_of_(int)_>_-_1
